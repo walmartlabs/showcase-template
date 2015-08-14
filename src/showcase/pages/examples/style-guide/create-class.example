@@ -1,0 +1,20 @@
+let MyComponent = React.createClass({
+  propTypes: {
+    text: React.PropTypes.string
+  },
+  getDefaultProps() {
+    return {
+      text: 'Foo!'
+    };
+  },
+  _getText() {
+    return this.props.text;
+  },
+  render() {
+    return (
+      <div>{this._getText()}</div>
+    );
+  }
+});
+
+React.render(<MyComponent/>, mountNode);
