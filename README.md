@@ -2,7 +2,7 @@ Showcase demo embed project
 ===========================
 
 So the idea here is to allow for embedding a showcase into a project.
-That project could be some type of rollup project that referencs a lot
+That project could be some type of rollup project that references a lot
 of component libraries, or just an individual library.
 
 ## Installation
