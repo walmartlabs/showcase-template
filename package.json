@@ -21,7 +21,7 @@
     "object-assign": "^2.0.0",
     "raw-loader": "^0.5.1",
     "react": "^0.13.3",
-    "react-bootstrap": "^0.24.4",
+    "react-bootstrap": "^0.33.1",
     "react-geomicons": "^2.0.3",
     "react-router": "^0.13.3",
     "react-tools": "^0.13.2",
