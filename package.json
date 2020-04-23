@@ -25,7 +25,7 @@
     "react-geomicons": "^2.0.3",
     "react-router": "^0.13.3",
     "react-tools": "^0.13.2",
-    "style-loader": "^0.12.1",
+    "style-loader": "^0.23.1",
     "stylus-loader": "^1.1.0",
     "webpack": "^1.8.10",
     "webpack-dev-server": "^1.10.1"
